@@ -4,7 +4,7 @@
 # ai_01 (contingency)
 entity = {
 	name = "ai_01_aesthetic_terraform_station_entity"
-	pdxmesh = "ai_01_station_small_mesh"
+	pdxmesh = "ai_01_station_small_frame_mesh"
 	locator = { name = "part1" position = { 0 0 0 } }
 	locator = { name = "beam1" position = { 0 3 0 } scale = 110 rotation = { 0 -90 0 } }
 	default_state = "idle"
@@ -30,16 +30,29 @@ entity = {
 	attach = { "beam1" = "terraforming_effect_entity" }
 }
 
+entity = {
+	name = "ai_01_aesthetic_terraform_station_section_entity"
+	pdxmesh = "ai_01_station_small_mesh"
+	default_state = "idle"
+	state = { name = "idle" animation = "idle" }
+	state = { name = "death" animation = "death" looping = no }
+}
+
 # silicoid_01 (Animated Silicoid Portraits) - clones ai_01
 entity = {
 	name = "silicoid_01_aesthetic_terraform_station_entity"
 	clone = "ai_01_aesthetic_terraform_station_entity"
 }
 
+entity = {
+	name = "silicoid_01_aesthetic_terraform_station_section_entity"
+	clone = "ai_01_aesthetic_terraform_station_section_entity"
+}
+
 # ai_01_blue (cybrex)
 entity = {
 	name = "ai_01_blue_aesthetic_terraform_station_entity"
-	pdxmesh = "ai_01_blue_station_small_mesh"
+	pdxmesh = "ai_01_blue_station_small_frame_mesh"
 	locator = { name = "part1" position = { 0 0 0 } }
 	locator = { name = "beam1" position = { 0 3 0 } scale = 110 rotation = { 0 -90 0 } }
 	default_state = "idle"
@@ -63,6 +76,14 @@ entity = {
 		size = @terraforming_station
 	}
 	attach = { "beam1" = "terraforming_effect_entity" }
+}
+
+entity = {
+	name = "ai_01_aesthetic_terraform_station_section_entity"
+	pdxmesh = "ai_01_blue_station_small_mesh"
+	default_state = "idle"
+	state = { name = "idle" animation = "idle" }
+	state = { name = "death" animation = "death" looping = no }
 }
 
 # extra_dimensional_01 (blue)
