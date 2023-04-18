@@ -1,0 +1,30 @@
+[h1]Overview[/h1]
+Do you like terraform stations from my mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url]?  Do you also want to have properly-skinned terraform stations using the crisis ships (Contingency, Unbidden [i]et al[/i], Prethoryn)?  Then this mod is for you!
+
+[h1]Changes[/h1]
+Adds terraform station definitions with an active terraforming beam for for all of the built-in crisis graphical cultures ([b]ai_01[/b], [b]ai_01_blue[/b], [b]extra_dimensional_01[/b], [b]extra_dimensional_02[/b], [b]extra_dimensional_03[/b], [b]swarm_01[/b]), required for Aesthetic Terraform Stations to apply the correct appearance.  Also supports other mods which add shipsets using the crisis models (see below for a list of those currently supported).
+
+[h2]Compatibility[/h2]
+Should work with practically everything that also works with Aesthetic Terraform Stations and one or more of the supported shipset mods.
+
+Built for Stellaris version 3.7 "Canis Minor."  Not compatible with achievements, but neither is the dependency.
+
+[h3]Required Dependency Mods[/h3]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url] enables the very old-school terraform stations as visual markers for terraforming planets
+[/list]
+[h3]Supported Shipset Mods[/h3]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2592592503]Animated Holosphere Portraits: Revisited[/url] adds a shipset built using the Unbidden models
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2579736379]Animated Silicoid Portraits: Revisited[/url] adds a shipset built using the Contingency models
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1715190550]Expanded Gestalts: Forgotten Queens[/url] adds a shipset built using the Prethoryn models
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2532923000]Swarm Ship Set (standalone)[/url] adds a shipset built using the Prethoryn models
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2545935786]Unbidden Ship Set (standalone)[/url] adds a shipset built using the Unbidden models
+[/list]
+[h2]Changelog[/h2]
+See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/]Change Notes[/url]
+
+[h2]Source Code[/h2]
+Hosted on [url=https://github.com/corsairmarks/crisis_shipsets_terraform_station_aesthetic]GitHub[/url]
+
+[url=https://discord.gg/2qjkAF8DY7][img]https://i.imgur.com/4Und3QN.png[/img][/url]
