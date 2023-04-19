@@ -4,7 +4,7 @@ Do you like terraform stations from my mod [Aesthetic Terraform Stations](https:
 
 # Changes
 
-Adds terraform station definitions with an active terraforming beam for for all of the built-in crisis graphical cultures (`ai_01`, `ai_01_blue`, `extra_dimensional_01`, `extra_dimensional_02`, `extra_dimensional_03`, `swarm_01`), required for Aesthetic Terraform Stations to apply the correct appearance.  Also supports other mods which add shipsets using the crisis models (see below for a list of those currently supported).
+Adds terraform station definitions with an active terraforming beam for for all of the built-in crisis graphical cultures (`ai_01`, `ai_02`, `extra_dimensional_01`, `extra_dimensional_02`, `extra_dimensional_03`, `swarm_01`), required for Aesthetic Terraform Stations to apply the correct appearance.  Also supports other mods which add shipsets using the crisis models (see below for a list of those currently supported).
 
 ## Compatibility
 

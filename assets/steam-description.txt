@@ -2,7 +2,7 @@
 Do you like terraform stations from my mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url]?  Do you also want to have properly-skinned terraform stations using the crisis ships (Contingency, Unbidden [i]et al[/i], Prethoryn)?  Then this mod is for you!
 
 [h1]Changes[/h1]
-Adds terraform station definitions with an active terraforming beam for for all of the built-in crisis graphical cultures ([b]ai_01[/b], [b]ai_01_blue[/b], [b]extra_dimensional_01[/b], [b]extra_dimensional_02[/b], [b]extra_dimensional_03[/b], [b]swarm_01[/b]), required for Aesthetic Terraform Stations to apply the correct appearance.  Also supports other mods which add shipsets using the crisis models (see below for a list of those currently supported).
+Adds terraform station definitions with an active terraforming beam for for all of the built-in crisis graphical cultures ([b]ai_01[/b], [b]ai_02[/b], [b]extra_dimensional_01[/b], [b]extra_dimensional_02[/b], [b]extra_dimensional_03[/b], [b]swarm_01[/b]), required for Aesthetic Terraform Stations to apply the correct appearance.  Also supports other mods which add shipsets using the crisis models (see below for a list of those currently supported).
 
 [h2]Compatibility[/h2]
 Should work with practically everything that also works with Aesthetic Terraform Stations and one or more of the supported shipset mods.
